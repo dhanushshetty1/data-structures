@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="intro" Database="" Version="10000">
+  <Project Name="array" Path="array/array.project" Active="No"/>
+  <Project Name="structure" Path="structure/structure.project" Active="No"/>
+  <Project Name="pointer" Path="pointer/pointer.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="array" ConfigName="Debug"/>
+      <Project Name="structure" ConfigName="Debug"/>
+      <Project Name="pointer" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="array" ConfigName="Release"/>
+      <Project Name="structure" ConfigName="Release"/>
+      <Project Name="pointer" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
