@@ -2,19 +2,46 @@
 <CodeLite_Workspace Name="intro" Database="" Version="10000">
   <Project Name="array" Path="array/array.project" Active="No"/>
   <Project Name="structure" Path="structure/structure.project" Active="No"/>
-  <Project Name="pointer" Path="pointer/pointer.project" Active="Yes"/>
+  <Project Name="pointer" Path="pointer/pointer.project" Active="No"/>
+  <Project Name="reference" Path="reference/reference.project" Active="No"/>
+  <Project Name="pointer_to_structure" Path="pointer_to_structure/pointer_to_structure.project" Active="No"/>
+  <Project Name="function" Path="function/function.project" Active="No"/>
+  <Project Name="parameter_passing" Path="parameter_passing/parameter_passing.project" Active="No"/>
+  <Project Name="array_as_parameter" Path="array_as_parameter/array_as_parameter.project" Active="No"/>
+  <Project Name="structure_as_pointer" Path="structure_as_pointer/structure_as_pointer.project" Active="No"/>
+  <Project Name="monolithic_program" Path="monolithic_program/monolithic_program.project" Active="No"/>
+  <Project Name="modular_program" Path="modular_program/modular_program.project" Active="No"/>
+  <Project Name="structure_and_function" Path="structure_and_function/structure_and_function.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="array" ConfigName="Debug"/>
       <Project Name="structure" ConfigName="Debug"/>
       <Project Name="pointer" ConfigName="Debug"/>
+      <Project Name="reference" ConfigName="Debug"/>
+      <Project Name="pointer_to_structure" ConfigName="Debug"/>
+      <Project Name="function" ConfigName="Debug"/>
+      <Project Name="parameter_passing" ConfigName="Debug"/>
+      <Project Name="array_as_parameter" ConfigName="Debug"/>
+      <Project Name="structure_as_pointer" ConfigName="Debug"/>
+      <Project Name="monolithic_program" ConfigName="Debug"/>
+      <Project Name="modular_program" ConfigName="Debug"/>
+      <Project Name="structure_and_function" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="array" ConfigName="Release"/>
       <Project Name="structure" ConfigName="Release"/>
       <Project Name="pointer" ConfigName="Release"/>
+      <Project Name="reference" ConfigName="Release"/>
+      <Project Name="pointer_to_structure" ConfigName="Release"/>
+      <Project Name="function" ConfigName="Release"/>
+      <Project Name="parameter_passing" ConfigName="Release"/>
+      <Project Name="array_as_parameter" ConfigName="Release"/>
+      <Project Name="structure_as_pointer" ConfigName="Release"/>
+      <Project Name="monolithic_program" ConfigName="Release"/>
+      <Project Name="modular_program" ConfigName="Release"/>
+      <Project Name="structure_and_function" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
