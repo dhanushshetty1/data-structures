@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="recursion" Database="" Version="10000">
+  <Project Name="1stprogram" Path="1stprogram/1stprogram.project" Active="No"/>
+  <Project Name="static" Path="static/static.project" Active="No"/>
+  <Project Name="tree_recursion" Path="tree_recursion/tree_recursion.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="1stprogram" ConfigName="Debug"/>
+      <Project Name="static" ConfigName="Debug"/>
+      <Project Name="tree_recursion" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="1stprogram" ConfigName="Release"/>
+      <Project Name="static" ConfigName="Release"/>
+      <Project Name="tree_recursion" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
