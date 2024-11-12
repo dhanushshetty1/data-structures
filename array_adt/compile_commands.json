@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\array2_adt\\main.cpp",
+  "directory": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\array2_adt",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\array2_adt\\main.cpp -o C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\array2_adt\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\demo_array_adt\\main.cpp",
+  "directory": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\demo_array_adt",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\demo_array_adt\\main.cpp -o C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\demo_array_adt\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\linear_search_array_adt\\main.cpp",
+  "directory": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\linear_search_array_adt",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\linear_search_array_adt\\main.cpp -o C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\linear_search_array_adt\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\delete_array_adt\\main.cpp",
+  "directory": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\delete_array_adt",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\delete_array_adt\\main.cpp -o C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\delete_array_adt\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\insert_array_adt\\main.cpp",
+  "directory": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\insert_array_adt",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\insert_array_adt\\main.cpp -o C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\insert_array_adt\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\Binary_Search\\main.cpp",
+  "directory": "C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\Binary_Search",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\Binary_Search\\main.cpp -o C:\\Users\\dhanu\\Desktop\\DSA\\array_adt\\Binary_Search\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

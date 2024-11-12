@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="array_adt" Database="" Version="10000">
+  <Project Name="demo_array_adt" Path="demo_array_adt/demo_array_adt.project" Active="No"/>
+  <Project Name="insert_array_adt" Path="insert_array_adt/insert_array_adt.project" Active="No"/>
+  <Project Name="delete_array_adt" Path="delete_array_adt/delete_array_adt.project" Active="No"/>
+  <Project Name="linear_search_array_adt" Path="linear_search_array_adt/linear_search_array_adt.project" Active="No"/>
+  <Project Name="Binary_Search" Path="Binary_Search/Binary_Search.project" Active="No"/>
+  <Project Name="array2_adt" Path="array2_adt/array2_adt.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="demo_array_adt" ConfigName="Debug"/>
+      <Project Name="insert_array_adt" ConfigName="Debug"/>
+      <Project Name="delete_array_adt" ConfigName="Debug"/>
+      <Project Name="linear_search_array_adt" ConfigName="Debug"/>
+      <Project Name="Binary_Search" ConfigName="Debug"/>
+      <Project Name="array2_adt" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="demo_array_adt" ConfigName="Release"/>
+      <Project Name="insert_array_adt" ConfigName="Release"/>
+      <Project Name="delete_array_adt" ConfigName="Release"/>
+      <Project Name="linear_search_array_adt" ConfigName="Release"/>
+      <Project Name="Binary_Search" ConfigName="Release"/>
+      <Project Name="array2_adt" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
