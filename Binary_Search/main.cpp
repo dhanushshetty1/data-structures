@@ -1,92 +1,37 @@
 #include <iostream>
 
 using namespace std;
+//void fun(int A*,int n) //or
+//void fun(int A[],int n){
+//	for(int i=0; i<5; i++){
+//		cout<<A[i]<<" ";
+//	}
+//	A[0]=10;
+//	cout <<endl<< sizeof(A)/sizeof(int)<<endl;
+//	}
 
-struct Array
-{
-	int A[20];
-	int size;
-	int length;
-	};
-
-void Display(struct Array arr){
-	int i;
-	cout << " elements are : ";
-	for(i=0; i<arr.length; i++)
-	{
-		cout << " " << arr.A[i];
-		}
+int * fun(int size){
+	int *p;
+	p = new int[size];
+	for(int i=0; i<size; i++){
+	p[i]=i+1;
 	}
-	
-void swap(int *x,int *y)
-{
-	int temp;
-	temp=*x;
-	*x=*y;
-	*y=temp;
-	}
-
-int LinearSearch(struct Array *arr,int key)
-{
-	int i;
-	for(i=0; i<arr->length; i++){
-		if(arr->A[i]==key)
-		{
-			swap(&arr->A[i],&arr->A[i-1]);
-			//swap(&arr->A[i],&arr->A[0]);
-			return i;
-		}
-		}
-	return -1;
-	}
-
-int Binary_search(struct Array arr,int key)
-{
-	int l,mid,h;
-	l=0;
-	h= arr.length-1;
-	
-	while(l<=h){
-		mid = (l+h)/2;
-		if(key == arr.A[mid])
-			return mid;
-			
-		else if(key < arr.A[mid])
-			h=mid-1;
-			
-		else
-			l=mid+1;
-		}
-	return -1;
-	}
-	
-int RBinary_search(int a[],int l,int h,int key)
-{
-	int mid;
-	
-	
-	if(l<=h){
-		mid = (l+h)/2;
-		if(key == a[mid])
-			return mid;
-			
-		else if(key < a[mid])
-			return RBinary_search(a,l,mid-1,key);
-			
-		else
-			return RBinary_search(a,mid+1,h,key);
-		}
-	return -1;
-	}
-
-
+	return p;
+}
 int main(){
 	
-	struct Array arr{{2,3,4,5,6},20,5};
+//	int A[]={2,4,6,8,10};
+//	int n = 5;
+//	
+//	fun(A,n);
+//	cout << sizeof(A)/sizeof(int)<<endl;
+//	for(int x:A)
+//		cout<<x<<" "<<endl;
+	int *ptr,sz=7;
+	ptr = fun(sz);
 	
-	cout<< RBinary_search(arr.A,0,arr.length,9)<<endl;
-	//cout<< Binary_search(arr.A,0,arr.length,9)<<endl;
-
-	Display(arr);
+	for(int i=0; i<sz; i++)
+		cout<<ptr[i]<<endl;
+	
 	return 0;
 }
