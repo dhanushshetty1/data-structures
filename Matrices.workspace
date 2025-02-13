@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Matrices" Database="" Version="10000">
+  <Project Name="Matrices" Path="Matrices/Matrices.project" Active="No"/>
+  <Project Name="MatricesC++" Path="MatricesC++/MatricesC++.project" Active="No"/>
+  <Project Name="lower_triangle_Matrices" Path="lower_triangle_Matrices/lower_triangle_Matrices.project" Active="No"/>
+  <Project Name="lower_triangle_Matrices_C++" Path="lower_triangle_Matrices_C++/lower_triangle_Matrices_C++.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Matrices" ConfigName="Debug"/>
+      <Project Name="MatricesC++" ConfigName="Debug"/>
+      <Project Name="lower_triangle_Matrices" ConfigName="Debug"/>
+      <Project Name="lower_triangle_Matrices_C++" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Matrices" ConfigName="Release"/>
+      <Project Name="MatricesC++" ConfigName="Release"/>
+      <Project Name="lower_triangle_Matrices" ConfigName="Release"/>
+      <Project Name="lower_triangle_Matrices_C++" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
